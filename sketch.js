@@ -12,7 +12,7 @@ function setup() {
   Car.velocityX = speed;
   
   Wall = createSprite(1500,200,60,height/2);  
-  Wall.shapeColor = "red";
+  Wall.shapeColor = "red"
 }
 
 function draw() {
